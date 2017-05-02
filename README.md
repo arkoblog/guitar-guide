@@ -1,5 +1,6 @@
 # Standard React Boilerplate
-## For building react apps withi KLL.
+
+This repository contrains the standard boilerplate code to be used for any front-end development project in KLL.
 
 ## Instructions
 
@@ -12,6 +13,7 @@
 Refer to `package.json` for more details:
 
 ```
+{
     "axios": "^0.16.1",
     "c3": "^0.4.11",
     "d3": "^4.8.0",
@@ -21,5 +23,11 @@ Refer to `package.json` for more details:
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
     "react-router": "^2.0.0-rc5"
+}
 ```
 
+## For production:
+Use `npm run production`
+
+Best,
+Arogya
