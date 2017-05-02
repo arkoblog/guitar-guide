@@ -29,5 +29,5 @@ Refer to `package.json` for more details:
 ## For production:
 Use `npm run production`
 
-#### Regards
-Arogya
+
+#### -Arogya
