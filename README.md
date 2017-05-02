@@ -4,7 +4,7 @@ This repository contrains the standard boilerplate code to be used for any front
 
 ## Instructions
 
-1. Clone this repo using `git clome https://arkoblog@code.kathmandulivinglabs.org/arkoblog/react-boilerplate-kll.git`
+1. Clone this repo using `git clone https://arkoblog@code.kathmandulivinglabs.org/arkoblog/react-boilerplate-kll.git`
 2. Install dependencies: `npm install`
 3. Start developing : `npm run start`
 
@@ -29,5 +29,5 @@ Refer to `package.json` for more details:
 ## For production:
 Use `npm run production`
 
-Best,
+#### Regards
 Arogya
