@@ -150,7 +150,7 @@ var Home = React.createClass({
                         <div className = "col-md-10">
                             <h2>Routine 1: Finger Independence</h2>
                             <p>We start our practice with the basic spider exercise bundle. Let's try and keep in mind the Zappa24 combo. Here's a picture of the same: </p>
-                            <img src="https://raw.githubusercontent.com/arkoblog/guitar-guide/master/src/img/zappa-24.png"></img>
+                            <img className="img-responsive" src="https://raw.githubusercontent.com/arkoblog/guitar-guide/master/src/img/zappa-24.png"></img>
 
                             <h4>Exercise #1 : Pattern of Four</h4>
                             <p>This is pretty straightforward, repeat each and every combination, starting from the low E string all the way to the high E string and then make your way back to the top. We do this twice for every combination.</p>
